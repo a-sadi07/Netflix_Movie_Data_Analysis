@@ -1,31 +1,33 @@
-# Netflix Movie Data Analysis
+# Netflix Movie Dataset Analysis – Project Overview
 
-This project analyzes a Netflix movie dataset using Python, focusing on data cleaning, exploratory data analysis (EDA), and visualizing trends in genres, ratings, durations, and release patterns. It demonstrates essential data analysis skills suitable for academic and professional portfolios.
+This project presents a comprehensive analysis of a Netflix movie dataset using Python. It covers data cleaning, exploratory data analysis (EDA), and visualizations to uncover trends across genres, ratings, durations, and release patterns. The work showcases essential data analytics skills suitable for academic submissions, interviews, and professional portfolios.
 
-⸻
+# Project Highlights
+Cleaned and prepared the Netflix movie dataset for analysis
+Analyzed genre distributions and trends
+Examined rating patterns and popularity metrics
+Explored variations in movie duration across categories
+Identified year-by-year release trends
+Produced clear and insightful visualizations using Matplotlib and Seaborn
 
-Project Highlights
-	•	Cleaned and prepared the Netflix dataset
-	•	Analyzed genre trends and distribution
-	•	Studied rating patterns and popularity
-	•	Explored duration variations across movies
-	•	Identified yearly release trends
-	•	Created visualizations using Matplotlib and Seaborn.
-Key Insights
-	•	Most represented and least represented genres
-	•	Genres associated with higher ratings
-	•	Changes in movie releases over the years
-	•	How duration varies by genre and trend
-	•	General content patterns within Netflix’s movie catalog.
-Tools Used
-	•	Python (Pandas, NumPy)
-	•	Jupyter Notebook
-	•	Matplotlib & Seaborn
-	•	CSV Datase.
-Purpose
+# Key Insights
+
+Identification of the most and least represented genres
+Genres that typically receive higher average ratings
+Trends in the number of movie releases over time
+How movie duration changes by genre and overall trends
+General content patterns within Netflix’s movie catalog
+
+# Tools & Technologies Used
+Python (Pandas, NumPy)
+Jupyter Notebook
+Matplotlib & Seaborn
+CSV dataset
+
+# Purpose of the Project
 This project demonstrates:
-	•	Practical data cleaning
-	•	EDA workflows
-	•	Visualization skills
-	•	Ability to answer business-style questions
-	•	Portfolio-quality data analysis.
+Practical data cleaning and preprocessing techniques
+A structured EDA workflow
+Strong data visualization skills
+Ability to answer business-oriented questions using data
+Development of a portfolio-ready, end-to-end data analysis project

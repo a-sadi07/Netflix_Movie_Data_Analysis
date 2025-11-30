@@ -1,4 +1,4 @@
-Netflix Movie Data Analysis
+# Netflix Movie Data Analysis
 
 This project analyzes a Netflix movie dataset using Python, focusing on data cleaning, exploratory data analysis (EDA), and visualizing trends in genres, ratings, durations, and release patterns. It demonstrates essential data analysis skills suitable for academic and professional portfolios.
 

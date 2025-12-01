@@ -9,12 +9,46 @@ The aim of this project is to practice and demonstrate essential data analytics 
 
 * Data cleaning and preparation
 
-Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-Identifying sales patterns and trends
+I* dentifying sales patterns and trends
 
-Category and product-level insights
+* Category and product-level insights
 
-Visualization using Plotly, Matplotlib, and Seaborn
+* Visualization using Plotly, Matplotlib, and Seaborn
 
 The project is fully implemented in a Jupyter Notebook for clarity and reproducibility.
+
+Technologies Used
+
+* Python
+
+* Pandas
+
+* Plotly (interactive charts)
+
+* Jupyter Notebook
+
+  Visualizations
+
+The notebook includes:
+
+* Interactive Plotly bar charts
+
+* Sales trend line charts
+
+* Category-wise comparisons
+
+* Heatmaps and distribution plots
+
+* KPI summarie
+
+  Disclaimer
+
+This project uses fully fictional, synthetic data for practice.
+Store names such as “ASDA” or “Tesco” are used only as examples.
+There is no real sales data, and this project is not associated with any real retailer.
+
+License
+
+You may freely use, modify, or reference this project for your own learning and portfolio.

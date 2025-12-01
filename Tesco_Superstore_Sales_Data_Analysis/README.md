@@ -3,6 +3,12 @@
 This project is a practice data analysis exercise created for learning and portfolio development.
 It uses a fictional retail sales dataset, and any store names mentioned (e.g. Tesco) are used purely for educational purposes. This project is not affiliated with or endorsed by any real company.
 
+# 📊 Superstore Sales Analysis
+
+➡️ **Interactive Notebook (Plotly charts working):**  
+[https://nbviewer.org/github/yourusername/yourrepo/blob/main/Tesco_Sales.ipynb](https://nbviewer.org/github/a-sadi07/Data_Analysis_Projects/blob/main/Tesco_Superstore_Sales_Data_Analysis/Tesco_Sales.ipynb)
+
+
 ## Project Overview
 
 The aim of this project is to practice and demonstrate essential data analytics skills, including:
